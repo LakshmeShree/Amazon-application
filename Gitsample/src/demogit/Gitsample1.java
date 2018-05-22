@@ -13,4 +13,10 @@ public class Gitsample1 {
 		driver.get("https://www.amazon.in/");
 		Thread.sleep(1000);
 	}
+	
+	@Test
+	public void print()
+	{
+		System.out.println("System out");
+}
 }
