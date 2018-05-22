@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13966" started-at="2018-05-22T06:31:25Z" finished-at="2018-05-22T06:31:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13966" started-at="2018-05-22T06:31:25Z" finished-at="2018-05-22T06:31:39Z">
+      <class name="demogit.Gitsample1">
+        <test-method status="PASS" signature="Openapp()[pri:0, instance:demogit.Gitsample1@4cc0edeb]" name="Openapp" duration-ms="13906" started-at="2018-05-22T06:31:25Z" finished-at="2018-05-22T06:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openapp -->
+      </class> <!-- demogit.Gitsample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
